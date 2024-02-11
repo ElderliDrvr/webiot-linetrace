@@ -33,6 +33,7 @@ def linetrace():
 
         time.sleep(0.1)  # 安定のための遅延
 
+# 実行
 linetrace()
 
 # GPIOピンのクリーンアップ
